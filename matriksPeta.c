@@ -251,10 +251,10 @@ void Transpose (MATRIKS * M){
 
 
 
-int main(){
+/*int main(){
 	MATRIKS a;
 	MakeNormalMATRIKS(8,8,&a);
 	InitializeCastleTemple(&a);
 	printMatriks(a);
-}
+}*/
 
