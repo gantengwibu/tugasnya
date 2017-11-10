@@ -177,6 +177,7 @@ void Konkat1Unit (unitList *L1, unitList *L2, unitList *L3);
 /* Tidak ada alokasi/dealokasi pada prosedur ini */
 
 void PecahListUnit (unitList *L1, unitList *L2, unitList L);
+
 /* I.S. L mungkin kosong */
 /* F.S. Berdasarkan L, dibentuk dua buah list L1 dan L2 */
 /* L tidak berubah: untuk membentuk L1 dan L2 harus alokasi */
